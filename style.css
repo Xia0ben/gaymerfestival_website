@@ -29,15 +29,34 @@ a > tspan:hover {
 .fill-button {
   fill: rgba(0,0,0,0);
 }
-/* 
-.main-purple-button {
 
+
+#billeterie-button:hover,
+#billet-4-jours-button:hover,
+#faire-un-don-button:hover,
+#go-up-button:hover,
+#logo-ng:hover,
+#logo-cote-ng:hover,
+#carte:hover {
+  filter: brightness(150%);
 }
 
-.pink-button {
-
+#twitch-button:hover > rect,
+#programmation-button:hover > rect,
+#programmation-button-2:hover > rect,
+#hebergement-button-2:hover > rect, 
+#nous-contacter-button:hover > rect,
+#contact-button-2:hover > rect,
+#programmation-button-3:hover > rect
+{
+  fill: hotpink;
+  fill-opacity: 20%;
 }
 
-.purple-button {
-
-} */
+#billet-1-jour-button:hover > rect,
+#hebergement-button:hover > rect,
+#twitch-button-2:hover > rect,
+#nous-contacter-button-3:hover > rect {
+  fill: darkblue;
+  fill-opacity: 20%;
+}
