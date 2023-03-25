@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Righteous";
+  src: url("fonts/righteous.ttf");
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: url("fonts/work_sans.ttf");
+}
+
+main {
+  width: 100%;
+}
+
+a:hover > text {
+  text-decoration: underline;
+}
+
+/*Ensure footer links stay white*/
+a > tspan {
+  fill: rgb(226, 226, 234);
+}
+
+a > tspan:hover {
+  text-decoration: underline;
+}
+
+/*Hack to fill background of button elements with transparent color to improve clicking*/
+.fill-button {
+  fill: rgba(0,0,0,0);
+}
+/* 
+.main-purple-button {
+
+}
+
+.pink-button {
+
+}
+
+.purple-button {
+
+} */
