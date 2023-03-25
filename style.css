@@ -37,7 +37,17 @@ a > tspan:hover {
 #go-up-button:hover,
 #logo-ng:hover,
 #logo-cote-ng:hover,
-#carte:hover {
+#carte:hover,
+#logo-sos-homophobie:hover,
+#logo-women-in-games:hover,
+#logo-exit:hover,
+#logo-enipse:hover,
+#logo-soeurs:hover,
+#logo-representrans:hover,
+#logo-arkane:hover,
+#logo-ea:hover,
+#logo-ubisoft:hover
+{
   filter: brightness(120%);
 }
 
