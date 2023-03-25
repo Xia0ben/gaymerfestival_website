@@ -38,7 +38,7 @@ a > tspan:hover {
 #logo-ng:hover,
 #logo-cote-ng:hover,
 #carte:hover {
-  filter: brightness(150%);
+  filter: brightness(120%);
 }
 
 #twitch-button:hover > rect,
