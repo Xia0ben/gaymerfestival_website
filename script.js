@@ -54,7 +54,8 @@ var id_to_link = {
   'footer-reglement-interieur': 'https://nextgaymer.com/reglement-interieur-de-lassociation/',
   'footer-statuts-de-l-association': 'https://nextgaymer.com/?page_id=8089&preview=true',
   'footer-loup-lacaille': 'https://www.behance.net/LACAILLE',
-  'go-up-button': '#top'
+  'go-up-button': '#top',
+  'logo-le refuge': 'https://le-refuge.org/'
 };
 
 var_text_to_id = {
