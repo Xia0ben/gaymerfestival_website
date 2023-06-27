@@ -176,7 +176,7 @@ html_out_filepath = '/home/xia0ben/Desktop/gaymerfestival_website/index.html'
 set_all_id_attributes_as_ids(svg)
 extract_images(svg)
 
-add_links(svg)
+# add_links(svg)
 
 svg.firstChild.removeAttribute('width')
 svg.firstChild.removeAttribute('height')
